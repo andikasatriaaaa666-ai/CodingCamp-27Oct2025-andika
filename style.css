@@ -6,7 +6,6 @@
 marquee{
   background: black;
   color: white;
-  height: 25vh;
 }
 
 main{
@@ -16,5 +15,4 @@ main{
 
 footer{
   background: crimson;
-  
 }
